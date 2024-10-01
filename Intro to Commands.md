@@ -2,7 +2,7 @@
 
 ## Code:
 ```bash
-hello
+hacker@hello~intro-to-commands:~$hello
 Success! Here is your flag:
 pwn.college{gCvMk20tmLkhRby46Z0K8tUAvoM.ddjNyUDL0kTN0czW}
 ```
