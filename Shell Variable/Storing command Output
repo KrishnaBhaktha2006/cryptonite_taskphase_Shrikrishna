@@ -1,0 +1,12 @@
+# Storing command Output
+## Code:
+```bash
+hacker@variables~storing-command-output:~$ PWN=$(/challenge/run)
+Congratulations! You have read the flag into the PWN variable. Now print it out
+and submit it!
+hacker@variables~storing-command-output:~$ echo "$PWN"
+pwn.college{onK0XqTeH8OEyZwh1f8LxeuNgXd.dVzN0UDL0kTN0czW}
+```
+## Learnings:
+it was a good question
+## References:
